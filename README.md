@@ -9,7 +9,7 @@ In this project, I used Javascript, Plotly, and D3.js to build an interactive da
 - A popup displays the bacteria's name and its exact frequency when hovering over the charts.
 
 ### Results:
-The project page is found here --> [Link to dashboard]( )
+The project page is found here --> [Link to dashboard](https://l-hmd.github.io/BellyButton_Biodiversity_Plotly/)
 #### Deliverable 1 - Horizontal Bar Chart
 ![image](https://user-images.githubusercontent.com/100629325/191081781-df5d5755-ad94-4399-a8fe-2cdf384e6ac5.png)
 
